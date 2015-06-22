@@ -19,7 +19,7 @@ And `git annex sync origin` to keep stuff up-to-date.
 - [The GPU Computing Era](http://sbel.wisc.edu/Courses/ME964/2011/Literature/onGPUcomputingDally2010.pdf) - John Nickolls.
 - [Debunking the 100X GPU vs. CPU Myth: An Evaluation of Throughput Computing on CPU and GPU](http://pcl.intel-research.net/publications/isca319-lee.pdf) - Victor W. Lee, et al.
 - [GPUs and GPU Programming](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/lecture_notes/gpus.pdf) -  Stewart Weiss.
-
+- [History and Evolution of GPU Architecture](http://mcclanahoochie.com/blog/wp-content/uploads/2011/03/gpu-hist-paper.pdf)
 
 <!-- Local Variables: -->
 <!-- auto-fill-mode: -1 -->
