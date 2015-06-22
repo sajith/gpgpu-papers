@@ -17,6 +17,7 @@ And `git annex sync origin` to keep stuff up-to-date.
 - [GPU-to-CPU Callbacks](http://idav.ucdavis.edu/func/return_pdf?pub_id=1039) - Jeff A. Stuart, and John D. Owens.
 - [GPUs - a closer look](http://queue.acm.org/detail.cfm?id=1365498) - Kayvon Fatahalian, and Mike Houston
 - [The GPU Computing Era](http://sbel.wisc.edu/Courses/ME964/2011/Literature/onGPUcomputingDally2010.pdf)
+- [Debunking the 100X GPU vs. CPU Myth: An Evaluation of Throughput Computing on CPU and GPU](http://pcl.intel-research.net/publications/isca319-lee.pdf)
 
 <!-- Local Variables: -->
 <!-- auto-fill-mode: -1 -->
