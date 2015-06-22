@@ -12,16 +12,10 @@ And `git annex sync origin` to keep stuff up-to-date.
 
 # The papers
 
-- [GPU Computing](http://cs.utsa.edu/~qitian/seminar/Spring11/03_04_11/GPU.pdf)
-
-- [An analytical model for a GPU architecture with memory-level and thread-level parallelism awareness](http://www.webmail.gpucomputing.net/sites/default/files/papers/367/isca09-07-hong-gpu-model.pdf)
-
-- [GPU-to-CPU Callbacks](http://idav.ucdavis.edu/func/return_pdf?pub_id=1039)
-
-- [GPUs - a closer look](http://queue.acm.org/detail.cfm?id=1365498)
-
-
-
+- [GPU Computing](http://cs.utsa.edu/~qitian/seminar/Spring11/03_04_11/GPU.pdf) - Owens, J.D.; Houston, M.; Luebke, D.; Green, S. 
+- [An analytical model for a GPU architecture with memory-level and thread-level parallelism awareness](http://www.webmail.gpucomputing.net/sites/default/files/papers/367/isca09-07-hong-gpu-model.pdf) - Sunpyo Hong, and Hyesoon Kim.
+- [GPU-to-CPU Callbacks](http://idav.ucdavis.edu/func/return_pdf?pub_id=1039) - Jeff A. Stuart, and John D. Owens.
+- [GPUs - a closer look](http://queue.acm.org/detail.cfm?id=1365498) - Kayvon Fatahalian, and Mike Houston
 
 <!-- Local Variables: -->
 <!-- auto-fill-mode: -1 -->
