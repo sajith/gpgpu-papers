@@ -18,6 +18,8 @@ And `git annex sync origin` to keep stuff up-to-date.
 - [GPUs - a closer look](http://queue.acm.org/detail.cfm?id=1365498) - Kayvon Fatahalian, and Mike Houston
 - [The GPU Computing Era](http://sbel.wisc.edu/Courses/ME964/2011/Literature/onGPUcomputingDally2010.pdf)
 - [Debunking the 100X GPU vs. CPU Myth: An Evaluation of Throughput Computing on CPU and GPU](http://pcl.intel-research.net/publications/isca319-lee.pdf)
+- [GPUs and GPU Programming](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/lecture_notes/gpus.pdf) -  Stewart Weiss.
+
 
 <!-- Local Variables: -->
 <!-- auto-fill-mode: -1 -->
