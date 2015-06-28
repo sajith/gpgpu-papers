@@ -302,3 +302,16 @@
  publisher = {ACM},
  address = {New York, NY, USA},
 }
+
+@techreport{Catanzaro:EECS-2010-124,
+    Author = {Catanzaro, Bryan and Garland, Michael and Keutzer, Kurt},
+    Title = {Copperhead: Compiling an Embedded Data Parallel Language},
+    Institution = {EECS Department, University of California, Berkeley},
+    Year = {2010},
+    Month = {Sep},
+    URL = {http://www.eecs.berkeley.edu/Pubs/TechRpts/2010/EECS-2010-124.html},
+    Number = {UCB/EECS-2010-124},
+    Abstract = {Modern parallel microprocessors deliver high performance on applications that expose substantial fine-grained data parallelism. Although data parallelism is widely available in many computations, implementing data parallel algorithms in low-level languages is often an unnecessarily difficult task. The characteristics of parallel microprocessors and the limitations of current programming methodologies motivate our design of Copperhead, a high-level data parallel language embedded in Python. The Copperhead programmer describes parallel computations via composition of familiar data parallel primitives supporting both flat and nested data parallel computation on arrays of data. Copperhead programs are expressed in a subset of the widely used Python programming language and interoperate with standard Python modules, including libraries for numeric computation, data visualization, and analysis.
+In this paper, we discuss the language, compiler, and runtime features that enable Copperhead to efficiently execute data parallel code. We define the restricted subset of Python which Copperhead supports and introduce the program analysis techniques necessary for compiling Copperhead code into efficient low-level implementations. We also outline the runtime support by which Copperhead programs interoperate with standard Python modules. We demonstrate the effectiveness of our techniques with several examples targeting the CUDA platform for parallel programming on GPUs. Copperhead code is concise, on average requiring 3.6 times fewer lines of code than CUDA, and the compiler generates efficient code, yielding 45-100% of the performance of hand-crafted, well optimized CUDA code.}
+}
+
